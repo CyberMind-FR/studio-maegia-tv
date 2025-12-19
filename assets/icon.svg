@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d4aa"/>
+      <stop offset="100%" style="stop-color:#7c6aef"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="48" fill="#0a0a0f"/>
+  <circle cx="50" cy="50" r="45" fill="none" stroke="url(#g)" stroke-width="2"/>
+  <!-- Piano keys -->
+  <rect x="20" y="55" width="8" height="25" rx="2" fill="#e74c3c"/>
+  <rect x="30" y="55" width="8" height="25" rx="2" fill="#f1c40f"/>
+  <rect x="40" y="55" width="8" height="25" rx="2" fill="#2ecc71"/>
+  <rect x="50" y="55" width="8" height="25" rx="2" fill="#3498db"/>
+  <rect x="60" y="55" width="8" height="25" rx="2" fill="#9b59b6"/>
+  <rect x="70" y="55" width="8" height="25" rx="2" fill="#e91e63"/>
+  <!-- Wave -->
+  <path d="M15 35 Q25 20, 35 35 T55 35 T75 35 T95 35" fill="none" stroke="url(#g)" stroke-width="3"/>
+</svg>
